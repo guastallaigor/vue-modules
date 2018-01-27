@@ -1,13 +1,21 @@
 # Vue Modules
 
-> A vue-cli template based on webpack.
+Vue Module is an vue-cli open source project based on webpack.
+
+## Contributing
+
+* Fork it !
+* Create your branch from develop: git branch example origin develop
+* Commit your changes: git commit -am "Detail your modifications"
+* Push the branch: git push origin example
+* Submit a pull request to develop of hardcodeinc/vue-modules
 
 ## Features
 
 * [Vuetify](https://vuetifyjs.com/)
-* Pug
-* Stylus
-* Vuex
+* [Pug](https://pugjs.org/api/getting-started.html)
+* [Stylus](http://stylus-lang.com/)
+* [Vuex](https://vuex.vuejs.org/en/)
 * Modules
 * Domains
 * Dotenv
