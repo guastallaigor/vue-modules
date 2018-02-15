@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Vue Module is an vue-cli open source project based on webpack.
+  Vue Modules is a vue-cli open source project based on webpack.
 </p>
 
 [![dependencies Status](https://david-dm.org/guastallaigor/vue-modules/status.svg)](https://david-dm.org/guastallaigor/vue-modules)
