@@ -1,19 +1,10 @@
 <div align="center">
-  <img src="app/static/logo.png" width="128px">
+  <img src="static/logo.png" width="128px">
   <h1>Vue Modules</h1>
-  <p>
-    <a href="https://github.com/denysdovhan/inboxer/releases"><img src="https://img.shields.io/github/release/denysdovhan/inboxer.svg?style=flat-square" alt="Version"></a>
-    <a href="https://travis-ci.org/denysdovhan/inboxer?branch=master"><img src="https://img.shields.io/travis/denysdovhan/inboxer.svg?style=flat-square" alt="Travis CI"></a>
-    <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg?style=flat-square" alt="Platform">
-    <a href="https://www.liqpay.com/en/checkout/380951100392"><img src="https://img.shields.io/badge/donate-LiqPay-blue.svg?style=flat-square" alt="Donate with card"></a>
-    <a href="https://github.com/denysdovhan/inboxer#donate"><img src="https://img.shields.io/badge/donate-BTC-yellow.svg?style=flat-square" alt="Donate with Bitcoin"></a>
-    <a href="https://github.com/denysdovhan/inboxer#donate"><img src="https://img.shields.io/badge/donate-ETH-gray.svg?style=flat-square" alt="Donate with Ethereum"></a>
-  </p>
 </div>
 
 <p align="center">
-  <img src="app/static/logo.png" width="128px">
-  <b>Enable darker-than-dark dimming for internal and external screens.</b><br>
+  <b>Vue Module is an vue-cli open source project based on webpack.</b><br>
   Available for macOS, Windows and Linux (Beta).
 </p>
 
@@ -24,9 +15,7 @@ Vue Module is an vue-cli open source project based on webpack.
 [![dependencies Status](https://david-dm.org/guastallaigor/vue-modules/status.svg)](https://david-dm.org/guastallaigor/vue-modules)
 [![devDependencies Status](https://david-dm.org/guastallaigor/vue-modules/dev-status.svg)](https://david-dm.org/guastallaigor/vue-modules?type=dev)
 [![Dependency Status](https://dependencyci.com/github/guastallaigor/vue-modules/badge)](https://dependencyci.com/github/guastallaigor/vue-modules)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/guastallaigor/hare/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/clarkdo/hare.svg)](https://github.com/guastallaigor/hare/issues)
-[![Stars](https://img.shields.io/github/stars/clarkdo/hare.svg)](https://github.com/guastallaigor/hare/stargazers)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/95486974aafb4663bfd6edc2d1fa7187)](https://www.codacy.com/app/guastallaigor/vue-modules?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guastallaigor/vue-modules&amp;utm_campaign=Badge_Grade)
 [![HitCount](http://hits.dwyl.io/guastallaigor/vue-modules.svg)](http://hits.dwyl.io/guastallaigor/vue-modules)
 
