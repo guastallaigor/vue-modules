@@ -109,9 +109,9 @@ The same goes for all the Vuex's Store that is inside every modules folder.
 Thanks for considering contributing to Vue Modules!
 
 We welcome any type of contribution, not only code. You can help with:
-- **QA**: file bug reports, the more details you can give the better (e.g. screenshots with the console open)
-- **Community**: presenting the project at meetups, organizing a dedicated meetup for the local community
-- **Code**: take a look at the [open issues](https://github.com/hardcodeinc/vue-modules/issues). Even if you can't write the code yourself, you can comment on them, showing that you care about a given issue matters. It helps us triage them
+- **QA**: File bug reports, the more details you can give the better (e.g. screenshots with the console open)
+- **Community**: Presenting the project at meetups, organizing a dedicated meetup for the local community
+- **Code**: Take a look at the [open issues](https://github.com/hardcodeinc/vue-modules/issues). Even if you can't write the code yourself, you can comment on them, showing that you care about a given issue matters. It helps us triage them
 
 ## Development
 
