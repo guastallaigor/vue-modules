@@ -4,17 +4,13 @@
 </div>
 
 <p align="center">
-  <b>Vue Module is an vue-cli open source project based on webpack.</b><br>
-  Available for macOS, Windows and Linux (Beta).
+  Vue Module is an vue-cli open source project based on webpack.
 </p>
-
-# Vue Modules
-
-Vue Module is an vue-cli open source project based on webpack.
 
 [![dependencies Status](https://david-dm.org/guastallaigor/vue-modules/status.svg)](https://david-dm.org/guastallaigor/vue-modules)
 [![devDependencies Status](https://david-dm.org/guastallaigor/vue-modules/dev-status.svg)](https://david-dm.org/guastallaigor/vue-modules?type=dev)
 [![Dependency Status](https://dependencyci.com/github/guastallaigor/vue-modules/badge)](https://dependencyci.com/github/guastallaigor/vue-modules)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/guastallaigor/hare/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/clarkdo/hare.svg)](https://github.com/guastallaigor/hare/issues)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/95486974aafb4663bfd6edc2d1fa7187)](https://www.codacy.com/app/guastallaigor/vue-modules?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guastallaigor/vue-modules&amp;utm_campaign=Badge_Grade)
 [![HitCount](http://hits.dwyl.io/guastallaigor/vue-modules.svg)](http://hits.dwyl.io/guastallaigor/vue-modules)
