@@ -15,6 +15,23 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/95486974aafb4663bfd6edc2d1fa7187)](https://www.codacy.com/app/guastallaigor/vue-modules?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guastallaigor/vue-modules&amp;utm_campaign=Badge_Grade)
 [![HitCount](http://hits.dwyl.io/guastallaigor/vue-modules.svg)](http://hits.dwyl.io/guastallaigor/vue-modules)
 
+#
+
+## Why use Vue Modules?
+
+Aren't you tired of using the vue-cli's routing system, with just one `js` file that concentrates all the routing of your application? And doing the exact same thing when you use Vuex?
+Always wanted to develop in a modularized architecture using Vuejs?
+Like Vuetify? Stylus? Pug?
+**So this is the CLI for you!**
+
+## Quick start
+
+This is very simple. Just add every new module inside the modules folder. Note that this is just an advice, this is not mandatory by any means.
+Inside every new module folder, you will have your components, Router and a Store.
+For the `import-by-file.js` see import your modularized Router and Store, just add "Store" or "Router" sufix name after the name you gave it.
+Example: For the Example module folder, it has the `ExampleRouter.js`. Note that without the "Router" sufix, the routing system would not work properly.
+The same goes for all the Vuex's Store that is inside every modules folder.
+
 ## Features
 
 * [Vuetify](https://vuetifyjs.com/)
@@ -24,7 +41,7 @@
 * Modules
 * Dotenv
 
-## Project Directory
+## Project directory
 
 ```
 .
@@ -80,7 +97,7 @@
 |   +-- main.js // js used to import the modules theme
 ```
 
-## Contributing
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 * Fork it !
 * Create your branch from develop: git branch example origin develop
@@ -90,9 +107,6 @@
 
 ## Development
 
-#### Code Style
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
 Make sure you have [Node.js](https://nodejs.org) installed, then type the following commands known to every Node developer:
 ```
 git clone https://github.com/szwacz/electron-boilerplate.git
@@ -100,6 +114,9 @@ cd vue-modules
 npm install
 npm run dev
 ```
+
+#### Code Style
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 ## License
 
