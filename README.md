@@ -15,8 +15,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/95486974aafb4663bfd6edc2d1fa7187)](https://www.codacy.com/app/guastallaigor/vue-modules?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guastallaigor/vue-modules&amp;utm_campaign=Badge_Grade)
 [![HitCount](http://hits.dwyl.io/guastallaigor/vue-modules.svg)](http://hits.dwyl.io/guastallaigor/vue-modules)
 
-#
-
 ## Why use Vue Modules?
 
 Aren't you tired of using the vue-cli's routing system, with just one `js` file that concentrates all the routing of your application? And doing the exact same thing when you use Vuex?
