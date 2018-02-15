@@ -20,16 +20,23 @@
 ## Why use Vue Modules?
 
 Aren't you tired of using the vue-cli's routing system, with just one `js` file that concentrates all the routing of your application? And doing the exact same thing when you use Vuex?
+
 Always wanted to develop in a modularized architecture using Vuejs?
+
 Like Vuetify? Stylus? Pug?
+
 **So this is the CLI for you!**
 
 ## Quick start
 
 This is very simple. Just add every new module inside the modules folder. Note that this is just an advice, this is not mandatory by any means.
+
 Inside every new module folder, you will have your components, Router and a Store.
+
 For the `import-by-file.js` see import your modularized Router and Store, just add "Store" or "Router" sufix name after the name you gave it.
+
 Example: For the Example module folder, it has the `ExampleRouter.js`. Note that without the "Router" sufix, the routing system would not work properly.
+
 The same goes for all the Vuex's Store that is inside every modules folder.
 
 ## Features
