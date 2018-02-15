@@ -106,21 +106,24 @@ The same goes for all the Vuex's Store that is inside every modules folder.
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-* Fork it !
+Thanks for considering contributing to Vue Modules!
+
+We welcome any type of contribution, not only code. You can help with:
+- **QA**: file bug reports, the more details you can give the better (e.g. screenshots with the console open)
+- **Community**: presenting the project at meetups, organizing a dedicated meetup for the local community
+- **Code**: take a look at the [open issues](https://github.com/hardcodeinc/vue-modules/issues). Even if you can't write the code yourself, you can comment on them, showing that you care about a given issue matters. It helps us triage them
+
+## Development
+
+* Make sure you have [Node.js](https://nodejs.org) installed
+* Fork this repository
+* Clone the forked repository
+* Inside the cloned folder, run `npm install`
+* Then run `npm run dev`
 * Create your branch from develop: git branch example origin develop
 * Commit your changes: git commit -am "Detail your modifications"
 * Push the branch: git push origin example
 * Submit a pull request to develop of hardcodeinc/vue-modules
-
-## Development
-
-Make sure you have [Node.js](https://nodejs.org) installed, then type the following commands known to every Node developer:
-```
-git clone https://github.com/szwacz/electron-boilerplate.git
-cd vue-modules
-npm install
-npm run dev
-```
 
 #### Code Style
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
